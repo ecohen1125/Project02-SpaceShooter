@@ -208,7 +208,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speedPower: {fileID: 6490276111220174038, guid: 645ff0e02d5f6f24bba454fd571ec04e, type: 3}
   healthPower: {fileID: 1519315946022939837, guid: 367419f9159a90d429837c50d5576afc, type: 3}
-  targetTime: 1
+  targetTime: 10
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
