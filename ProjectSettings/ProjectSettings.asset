@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: d566c565abf2dc046bac3f166bbd571e
+  productGUID: c7f8e1c23cbbd6342886fab026ee9125
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: SpaceShooter
+  productName: ShipMovement
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -627,14 +627,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: SpaceShooter
+  metroPackageName: ShipMovement
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: SpaceShooter
+  metroApplicationDescription: ShipMovement
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -702,10 +702,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: abe98d55-29c3-4763-bf92-f252b2bcd361
+  cloudProjectId: 8fc80275-f451-4d43-8f5b-7335e05401f5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: SpaceShooter
+  projectName: ShipMovement
   organizationId: nmmishle
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

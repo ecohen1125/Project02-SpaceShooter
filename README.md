@@ -1,9 +1,1 @@
-# Project02-SpaceShooter
-
-# Project Name
-Context and date
-Description
-## Implementation
-## References
-## Future Development
-## Created by
+# Exercise-2d-Scenes-And-Menus
